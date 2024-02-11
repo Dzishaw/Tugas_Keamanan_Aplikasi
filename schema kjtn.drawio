@@ -1,59 +1,65 @@
-<mxfile host="app.diagrams.net" modified="2024-02-11T04:07:48.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="0gL99dG-uwOWdvVSdPhE" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-11T14:42:11.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="QuMgdh6Vj_e-uiag40eI" version="23.1.2" type="github">
   <diagram name="Halaman-1" id="z8D3F9iNMQI7_zkxwt_s">
-    <mxGraphModel dx="1294" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="387" dy="478" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TJtoCRO4ObCqjTzEe4PV-3" target="TJtoCRO4ObCqjTzEe4PV-9">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TJtoCRO4ObCqjTzEe4PV-3" target="TJtoCRO4ObCqjTzEe4PV-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="TJtoCRO4ObCqjTzEe4PV-3" target="TJtoCRO4ObCqjTzEe4PV-10">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TJtoCRO4ObCqjTzEe4PV-3" target="TJtoCRO4ObCqjTzEe4PV-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-3" value="" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-3" value="" style="shape=mxgraph.cisco.storage.fibre_channel_disk_subsystem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="192" y="183" width="43" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-4" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-4" value="" style="image;html=1;image=img/lib/clip_art/telecommunication/Signal_tower_on_128x128.png" parent="1" vertex="1">
           <mxGeometry x="65" y="69.25" width="107" height="63.75" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/intruder.png" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/woothemes/PNG/intruder.png" parent="1" vertex="1">
           <mxGeometry x="172" y="70" width="63" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-6" value="Jamming Attack &lt;br&gt;GPS Receiver / Antenna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-6" value="Jamming Attack &lt;br&gt;GPS Receiver / Antenna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="87" y="20" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/551_Alert_antivirus_attack_computer_virus_cyber_spot_security-128.png" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/551_Alert_antivirus_attack_computer_virus_cyber_spot_security-128.png" parent="1" vertex="1">
           <mxGeometry x="142" y="60" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TJtoCRO4ObCqjTzEe4PV-9" target="TJtoCRO4ObCqjTzEe4PV-3">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TJtoCRO4ObCqjTzEe4PV-9" target="TJtoCRO4ObCqjTzEe4PV-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-9" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.radio_tower;" parent="1" vertex="1">
           <mxGeometry x="10" y="145" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TJtoCRO4ObCqjTzEe4PV-10" target="TJtoCRO4ObCqjTzEe4PV-12">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="TJtoCRO4ObCqjTzEe4PV-10" target="TJtoCRO4ObCqjTzEe4PV-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-10" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_WANs.svg;" parent="1" vertex="1">
           <mxGeometry x="330.66999999999996" y="203" width="42.66" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-11" value="wide area network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-11" value="wide area network" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="373.33" y="209" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-12" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.dataCenter;strokeColor=#5E5E5E;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="373.3299999999999" y="20" width="123" height="142" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-15" value="Substation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-15" value="Substation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="172" y="251" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-19" value="Antenna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-19" value="Antenna" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2.5" y="251" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-20" value="GPS Signals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="TJtoCRO4ObCqjTzEe4PV-20" value="GPS Signals" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="77" y="133" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="TJtoCRO4ObCqjTzEe4PV-22" value="misaligned measurements" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.cloud_callout" vertex="1" parent="1">
-          <mxGeometry x="377" y="251" width="90" height="79" as="geometry" />
+        <mxCell id="O2dEif4JaCjzYBlWt7XC-1" value="misaligned measurements" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373.33000000000004" y="251" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="O2dEif4JaCjzYBlWt7XC-3" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.575;entryY=0.971;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.136;exitY=0.335;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="O2dEif4JaCjzYBlWt7XC-1" target="TJtoCRO4ObCqjTzEe4PV-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="320" as="sourcePoint" />
+            <mxPoint x="380" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
